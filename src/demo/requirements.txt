@@ -1,0 +1,32 @@
+absl-py>=2.1.0
+chex==0.1.86
+dm-haiku @ git+https://github.com/deepmind/dm-haiku@af844e988886305286c464c1f6d7fe7656773fde
+einshape @ git+https://github.com/deepmind/einshape@d91ab136da3d97f4ba2b4582531cdc2dfd9fab0a
+etils==1.9.4
+immutabledict>=4.2.0
+jax==0.4.33
+jax-cuda12-pjrt==0.4.33
+jax-cuda12-plugin==0.4.33
+jaxlib==0.4.33
+jaxtyping==0.2.34
+jmp==0.0.4
+mctx==0.0.5
+ml_dtypes==0.5.0
+numpy>=2.1.1
+nvidia-cublas-cu12==12.6.1.4
+nvidia-cuda-cupti-cu12==12.6.68
+nvidia-cuda-nvcc-cu12==12.6.68
+nvidia-cuda-runtime-cu12==12.6.68
+nvidia-cudnn-cu12==9.4.0.58
+nvidia-cufft-cu12==11.2.6.59
+nvidia-cusolver-cu12==11.6.4.69
+nvidia-cusparse-cu12==12.5.3.3
+nvidia-nccl-cu12==2.23.4
+nvidia-nvjitlink-cu12==12.6.68
+opt-einsum==3.3.0
+optax==0.2.3
+scipy==1.14.1
+tabulate==0.9.0
+toolz==0.12.1
+typeguard==2.13.3
+typing_extensions==4.12.2
