@@ -29,7 +29,8 @@ is determined solely based on factor permutations).
 - `/src/demo`: A machine with Python 3 installed is required, ideally with a
 hardware accelerator such as a GPU or TPU. The required dependencies (assuming
 an Nvidia GPU is available) can be installed by executing
-`pip3 install -r alphatensor_quantum/src/demo/requirements.txt`.
+`pip3 install -r alphatensor_quantum/src/demo/requirements.txt` (this has been
+tested with Python 3.11.9 on an Nvidia Quadro P1000 GPU).
 
 - `/decompositions`: No installation required. The provided notebook can be
 opened and run in Google Colab.
